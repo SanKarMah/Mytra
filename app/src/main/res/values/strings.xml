@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mytra</string>
+    <string name="hint_name">* Name</string>
+    <string name="hint_phone">* Phone Number</string>
+    <string name= "hint_email"> Email</string>
+    <string name="text_mandatory"> * Mandatory</string>
+    <string name="text_rating"> Rating</string>
+    <string name ="text_comments"> Comments</string>
+    <string name="submit">Submit</string>
+    <string name="sync">Sync</string>
+    <string name="view">List View</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
