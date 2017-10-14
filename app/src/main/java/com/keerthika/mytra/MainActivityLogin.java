@@ -27,7 +27,9 @@ public class MainActivityLogin extends Activity {
         button_continue.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.d("This is tested git","Message");
+               // Log.d("This is tested git","Message");
+                Log.d("This is tested git","Fisrt Message");
+
                 Intent intent = new Intent(MainActivityLogin.this,MainActivity.class);
                 startActivity(intent);
             }
